@@ -1,0 +1,21 @@
+{
+  "name": "aboutme",
+  "version": "1.0.0",
+  "description": "This is site about me",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0",
+    "grunt-contrib-imagemin": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "AboutMe"
+  ],
+  "author": "Arkadiusz Cichosz",
+  "license": "ISC"
+}
