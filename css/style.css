@@ -51,7 +51,7 @@
   color: white; }
 
 .portfolio, .about-me, footer {
-  padding: 30px 0; }
+  padding: 30px 10px; }
 
 .footer-icons {
   display: flex;
