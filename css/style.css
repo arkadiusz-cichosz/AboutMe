@@ -60,4 +60,12 @@
   .footer-icons a i {
     margin-left: 30px; }
 
+.caption {
+  position: relative; }
+
+.commits {
+  position: absolute;
+  left: 200px;
+  top: 120px; }
+
 /*# sourceMappingURL=style.css.map */
