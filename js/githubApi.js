@@ -12,6 +12,10 @@ $(function() {
 		});
 	}
 
+	for(let i = 0; i < portfolioTable.length; i++) {
+			getCommit(portfolioTable[i]);
+		}
+		
 	setInterval(function() {
 		for(let i = 0; i < portfolioTable.length; i++) {
 			getCommit(portfolioTable[i]);
