@@ -1,14 +1,10 @@
 .container {
   margin: 10px auto; }
 
-.navbar-brand li a, .navbar-nav li a {
-  height: 80px;
-  font-size: 1.6em;
-  padding-top: 30px; }
-
 .jumbotron {
-  height: 100vh;
-  margin-top: 80px; }
+  background: url(https://static.pexels.com/photos/325229/pexels-photo-325229.jpeg) no-repeat;
+  background-size: cover;
+  height: 100vh; }
 
 .border {
   border: 2px solid;
@@ -17,18 +13,17 @@
 .border-blue {
   border-color: #2b679b; }
 
-.border-white {
-  border-color: white; }
-
 .myPhoto {
   display: flex;
   justify-content: center; }
   .myPhoto img {
     border-radius: 50%;
-    padding: 30px 0; }
+    padding: 80px 0; }
 
 .introduction {
-  padding: 20px 0; }
+  background-color: rgba(255, 255, 255, 0.6);
+  border-radius: 10px;
+  padding: 30px; }
   .introduction p {
     font-size: 2.2em;
     font-weight: bold; }
