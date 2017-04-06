@@ -1,5 +1,5 @@
 $(function() {
-	const portfolioTable = ["Game", "Carousel", "Layout-example", "spellingGame"];
+	const portfolioTable = ["Game", "Carousel", "Layout-example", "spellingGame", "openWeather"];
 
 	function getCommit(repoName) {
 		const url = "https://api.github.com/repos/arkadiusz-cichosz/" + repoName + "/commits";
